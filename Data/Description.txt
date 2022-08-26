@@ -1,0 +1,3 @@
+GeneExpr.txt: Depicts the expression profiles of N genes.
+PPI_Network.txt: Depicts the interaction between the N genes, obtained from the STRING database.
+Subset.txt: Reduced Set of Genes for which SiFS is to be executed
